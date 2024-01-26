@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑Bx","R7 Gif","Bot","  Welcome❤️","To R7 GIF"];
+const statusMessages = ["R7 Gif","Bot"];
 
 
 let currentIndex = 0;
